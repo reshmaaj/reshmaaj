@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Reshma</h1>
+<h1 align="center">Hey there !, I'm Reshma</h1>
 
 <p align="center">
   💫 <b>Coding with Purpose | Creating with Passion</b> 💫<br>
@@ -16,7 +16,6 @@
 - 💡 I’m a passionate **Web Developer** who codes with purpose.
 - 🔧 Skilled in building beautiful, responsive, and functional web applications.
 - 💬 Proficient in **Python**, **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, and **React.js**.
-- 🔍 I love translating ideas into interactive digital experiences.
 - 🌱 Currently exploring **full-stack development** and modern frontend frameworks.
 - 🤝 Always open to collaborating on impactful tech projects.
 
@@ -48,9 +47,9 @@ Here are a few cool things I’ve built and contributed to:
 
 ## 🌐 Let's Connect
 
-- 🌍 [Portfolio]((https://reshmajprofile.netlify.app/))  
+- 🌍 [Portfolio](https://reshmajprofile.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/reshma-jesurajan1510/) 
-- 📧 Drop a message: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Drop a message: [your.email@example.com](mailto:reshmajr1015@gmail.com)
 
 ---
 
