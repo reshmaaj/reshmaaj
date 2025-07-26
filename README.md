@@ -49,7 +49,7 @@ Here are a few cool things I’ve built and contributed to:
 
 - 🌍 [Portfolio](https://reshmajprofile.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/reshma-jesurajan1510/) 
-- 📧 Drop a message: [your.email@example.com](mailto:reshmajr1015@gmail.com)
+- 📧 Drop a message: [E-mail](mailto:reshmajr1015@gmail.com)
 
 ---
 
