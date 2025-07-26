@@ -1,4 +1,4 @@
-<h1 align="center">Hey there !, I'm Reshma</h1>
+<h1 align="center">Hey there ! , I'm Reshma</h1>
 
 <p align="center">
   💫 <b>Coding with Purpose | Creating with Passion</b> 💫<br>
