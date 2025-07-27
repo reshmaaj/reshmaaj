@@ -1,12 +1,11 @@
-<h1 align="center">Hey there ! , I'm Reshma</h1>
+<h1 align="center">Hey there! , I'm RESHMA</h1>
 
 <p align="center">
-  💫 <b>Coding with Purpose | Creating with Passion</b> 💫<br>
-  👩‍💻 Web Developer | Frontend Enthusiast | Lifelong Learner
+ 👩‍💻 Web Developer | Lifelong Learner
 </p>
 
 <p align="center">
-  🌐 <a href="https://reshmajprofile.netlify.app/" target="_blank"><b>Visit My Portfolio</b></a> 🌐
+  🌐 <a href="https://reshmajprofile.netlify.app/" target="_blank"><b>Visit My Portfolio</b></a> 
 </p>
 
 ---
