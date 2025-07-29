@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://reshmajprofile.netlify.app/" target="_blank"><b>Visit My Portfolio</b></a> 
+  🌐 <a href="https://reshmajprofile.netlify.app/" target="_blank" text-design=none><b>Visit My Portfolio</b></a> 
 </p>
 
 ---
 
-## About Me
+## 🦾 About Me
 
 - 💡 I’m a passionate **Web Developer** who codes with purpose.
 - 🔧 Skilled in building beautiful, responsive, and functional web applications.
@@ -20,9 +20,9 @@
 
 ---
 
-##  Languages & Tools
 
-<p align="center">
+
+<p align="center"> ##  🛠️ Languages & Tools
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,html,css,git,github,flutter,vscode" alt="tools" />
 </p>
 
