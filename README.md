@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! , I'm RESHMA</h1>
+<h1 align="center">Hey there🖐🏼, I'm RESHMA</h1>
 
 <p align="center">
  👩‍💻 Web Developer | Lifelong Learner
@@ -21,8 +21,8 @@
 ---
 
 
-
-<p align="center"> ##  🛠️ Languages & Tools
+##  🛠️ Languages & Tools
+<p align="left"> 
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,html,css,git,github,flutter,vscode" alt="tools" />
 </p>
 
