@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💡 I’m a passionate **Web Developer** who codes with purpose.
 - 🔧 Skilled in building beautiful, responsive, and functional web applications.
@@ -20,10 +20,10 @@
 
 ---
 
-## 🛠 My Toolbox
+##  Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,vscode,git,github" alt="tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,html,css,git,github,flutter,vscode" alt="tools" />
 </p>
 
 <p>
