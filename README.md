@@ -23,7 +23,7 @@
 
 ##  🛠️ Languages & Tools
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,html,css,git,github,flutter,vscode" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,html,css,git,github,vscode" alt="tools" />
 </p>
 
 <p>
@@ -44,11 +44,31 @@ Here are a few cool things I’ve built and contributed to:
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with me
 
 - 🌍 [Portfolio](https://reshmajprofile.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/reshma-jesurajan1510/) 
 - 📧 Drop a message: [E-mail](mailto:reshmajr1015@gmail.com)
+
+
+<p align="left">
+  <a href="https://reshmajprofile.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/reshma-jesurajan1510/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/reshmaJr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="mailto:reshmajr1015@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
+
 
 ---
 
