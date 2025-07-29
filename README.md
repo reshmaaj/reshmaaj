@@ -46,20 +46,31 @@ Here are a few cool things I’ve built and contributed to:
 
 ## 🌐 Connect with me
 
-  <a href="https://reshmajprofile.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-000?style=flat&logo=firefox&logoColor=white" alt="portfolio" />
+
+<p align="left">
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="30" alt="portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/reshma-jesurajan1510/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=blue" alt="linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin"/>
   </a>
-  <a href="https://leetcode.com/u/reshmaJr/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-000?style=flat&logo=leetcode&logoColor=FFA116" alt="leetcode" />
+
+  <!-- LeetCode (custom icon since devicon doesn't support it) -->
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" alt="leetcode"/>
   </a>
-  <a href="https://www.instagram.com/reshhmaajr/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=E4405F" alt="instagram" />
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" alt="instagram"/>
   </a>
-  <a href="mailto:reshmajr1015@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=red" alt="email" />
+
+  <!-- Gmail -->
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" alt="gmail"/>
   </a>
 </p>
 
