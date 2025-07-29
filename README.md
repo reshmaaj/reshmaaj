@@ -74,7 +74,7 @@ Here are a few cool things I’ve built and contributed to:
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=flat&logo=firefox&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/reshma-jesurajan1510/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=blue" alt="linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=blue" alt="linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://leetcode.com/u/reshmaJr/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-000?style=flat&logo=leetcode&logoColor=FFA116" alt="leetcode" />
