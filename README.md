@@ -50,9 +50,9 @@ Here are a few cool things I’ve built and contributed to:
 <p align="left">
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rstudio.svg" width="40" alt="portfolio"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rstudio.svg" alt="portfolio" width="40" margin-bottom="0"/>
   </a>  
- <br><sub><b>Portfolio</b></sub>
+ <br><sub><b margin-top="0">Portfolio</b></sub>
   &nbsp;&nbsp;
   
   <!-- LinkedIn -->
