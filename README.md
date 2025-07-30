@@ -45,40 +45,19 @@ Here are a few cool things I’ve built and contributed to:
 ---
 
 ## 🌐 Connect with me
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourprofile)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourprofile)
+
+<!-- Custom badge for your portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-R-ff69b4?style=for-the-badge)](https://your-portfolio-link.com)
 
 
-<p align="left">
-  <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rstudio.svg" alt="portfolio" width="40" margin-bottom="0"/>
-  </a>  
- <br><sub><b>Portfolio</b></sub>
-  
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-    <br><sub>LinkedIn</sub>
-
-  <!-- LeetCode (custom icon since devicon doesn't support it) -->
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
-    <br><sub>LeetCode</sub>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/>
-    <br><sub>Instagram</sub>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:your.email@example.com" target="_blank">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="40" height="40" style="color:#D14836"/>
-    <br><sub>Email</sub>
-  </a>
-</p>
 
 
 
