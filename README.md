@@ -49,9 +49,10 @@ Here are a few cool things I’ve built and contributed to:
 
 <p align="left">
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="30" alt="portfolio"/>
-  </a>
+  <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/personio.svg" width="40" alt="portfolio"/>
+    <br><sub><b>Portfolio</b></sub>
+  </a>&nbsp;&nbsp;
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
