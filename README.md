@@ -52,27 +52,31 @@ Here are a few cool things I’ve built and contributed to:
   <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rstudio.svg" alt="portfolio" width="40" margin-bottom="0"/>
   </a>  
- <br><sub><b margin-top="0">Portfolio</b></sub>
-  &nbsp;&nbsp;
+ <br><sub><b>Portfolio</b></sub>
+  
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+    <br><sub>LinkedIn</sub>
 
   <!-- LeetCode (custom icon since devicon doesn't support it) -->
   <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" alt="leetcode"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+    <br><sub>LeetCode</sub>
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" alt="instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/>
+    <br><sub>Instagram</sub>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" alt="gmail"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="40" height="40" style="color:#D14836"/>
+    <br><sub>Email</sub>
   </a>
 </p>
 
