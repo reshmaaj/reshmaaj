@@ -50,9 +50,10 @@ Here are a few cool things I’ve built and contributed to:
 <p align="left">
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/personio.svg" width="40" alt="portfolio"/>
-    <br><sub><b>Portfolio</b></sub>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rstudio.svg" width="40" alt="portfolio"/>
+  </a>  
+ <br><sub><b>Portfolio</b></sub>
+  &nbsp;&nbsp;
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
