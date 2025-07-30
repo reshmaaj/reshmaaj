@@ -45,12 +45,13 @@ Here are a few cool things I’ve built and contributed to:
 ---
 
 ## 🌐 Connect with me
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshma-jesurajan1510/) &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-R-ff69b4?style=for-the-badge)](https://reshmajprofile.netlify.app/) &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reshmaJr/) &nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reshhmaajr/) &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshhmaajr@gmail.com) &nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshma-jesurajan1510/) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reshmaJr/)  &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reshhmaajr/)  &nbsp;
+
+### 💬 Contact
+[![Portfolio](https://img.shields.io/badge/Portfolio-R-ff69b4?style=for-the-badge)](https://reshmajprofile.netlify.app/)  &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshhmaajr@gmail.com)  &nbsp;
 
 
 
