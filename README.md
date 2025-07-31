@@ -52,7 +52,7 @@ Here are a few cool things I’ve built and contributed to:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reshhmaajr/)  &nbsp;
 
 ### 💬 Contact
-[![Portfolio](https://img.shields.io/badge/Portfolio-R-ff69b4?style=for-the-badge)](https://reshmajprofile.netlify.app/)  &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://reshmajprofile.netlify.app/)  &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshhmaajr@gmail.com)  &nbsp;
 
 
