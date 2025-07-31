@@ -46,6 +46,18 @@ Here are a few cool things I’ve built and contributed to:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaaj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+---
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reshmaaj&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reshmaaj&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reshmaaj&theme=tokyonight)
+
+![Productivity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reshmaaj&theme=tokyonight&utcOffset=8)
+
+
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshma-jesurajan1510/) &nbsp;
