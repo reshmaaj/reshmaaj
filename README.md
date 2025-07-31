@@ -39,7 +39,7 @@ Here are a few cool things I’ve built and contributed to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=reshmaaj&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=reshmaaj&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=reshmaaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
