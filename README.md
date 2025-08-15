@@ -28,14 +28,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-Here are a few cool things I’ve built and contributed to:
-- 🧩 SwapX – A smart item-swapping platform for sustainability
-- 🎯 Movie Streaming website crafted with Tailwind & React
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,14 +48,6 @@ Here are a few cool things I’ve built and contributed to:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshhmaajr@gmail.com)  &nbsp;
 
 
-
-
-
-
 ---
 
-<p align="center">
-  <b>✨ "Turning ideas into code. Code into change." ✨</b><br>
-  <i>#CodeWithPurpose</i>
-</p>
 
