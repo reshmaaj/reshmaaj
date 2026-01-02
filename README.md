@@ -33,9 +33,6 @@
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=reshmaaj&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=reshmaaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaaj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🌐 Connect with me
