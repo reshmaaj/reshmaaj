@@ -15,7 +15,6 @@
 - 💡 I’m a passionate **Web Developer** who codes with purpose.
 - 🔧 Skilled in building beautiful, responsive, and functional web applications.
 - 💬 Proficient in **React.js**, **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, and **Python** .
-- 🌱 Currently exploring **full-stack development** and modern frontend frameworks.
 - 🤝 Always open to collaborating on impactful tech projects.
 
 ---
