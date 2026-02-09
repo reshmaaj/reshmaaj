@@ -1,7 +1,7 @@
 <h1 align="center">Hey there🖐🏼, I'm RESHMA</h1>
 
 <p align="center">
- 👩‍💻 Web Developer | Lifelong Learner
+ Software Developer
 </p>
 
 <p align="center">
